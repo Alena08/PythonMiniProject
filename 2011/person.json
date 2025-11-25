@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alena",
+    "age": 30,
+    "married": true,
+    "hobby": [
+      "travell"
+    ],
+    "address": {
+      "city": "Berlin",
+      "zipCode": 13156
+    }
+  },
+  {
+    "name": "John",
+    "age": 35,
+    "married": false,
+    "hobby": [
+      "ride",
+      "football"
+    ],
+    "address": {
+      "city": "London",
+      "zipCode": 67345
+    }
+  },
+  {
+    "name": "Alena",
+    "age": 30,
+    "married": true,
+    "hobby": [
+      "travell"
+    ],
+    "address": {
+      "city": "Berlin",
+      "zipCode": 13156
+    }
+  },
+  {
+    "name": "John",
+    "age": 35,
+    "married": false,
+    "hobby": [
+      "ride",
+      "football"
+    ],
+    "address": {
+      "city": "London",
+      "zipCode": 67345
+    }
+  }
+]
