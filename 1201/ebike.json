@@ -1,0 +1,92 @@
+{"ebikes":[{
+      "Hersteller": "HNF Heisenberg",
+      "Modellarten": [{
+            "Modell": "SD1 URBAN",
+            "Motor": [{
+               "Motortyp": "Mittelmotor",
+               "Motorleistung": "250W 36V 14Ah",
+               "Motorhersteller": "Bosch Active Line Plus",
+               "Reichweite": 100,
+               "Unterst\u00fctzung bis": 25
+            }],
+            "Fahrradeigenschaften":[ {
+               "Baujahr": 2018,
+               "Typ": "Pedelec",
+               "Gewicht": 21,
+               "Schaltung": "Nabe Stufenlos / Shimano Alfine",
+               "Rahmengr\u00f6\u00dfe": "S,M,L,XL",
+               "Reifengr\u00f6\u00dfe": 28,
+               "Rahmen": "City",
+               "Design": "Urban",
+               "Geschlecht": "Herren"
+            }],
+            "Preis": 3590.5
+         },{
+            "Modell": "UD1 Unisex 25",
+            "Motor": [{
+               "Motortyp": "Mittelmotor",
+               "Motorleistung": "250W 36V 14Ah",
+               "Motorhersteller": "Bosch Performance Line",
+               "Reichweite": 130,
+               "Unterst\u00fctzung bis": 25
+            }],
+            "Fahrradeigenschaften": [{
+               "Baujahr": 2017,
+               "Typ": "Pedelec",
+               "Gewicht": 25,
+               "Schaltung": "Nabe Stufenlos / Nuvinci N330",
+               "Rahmengr\u00f6\u00dfe": "S,M,L,XL",
+               "Reifengr\u00f6\u00dfe": 28,
+               "Rahmen": "City",
+               "Design": "Urban",
+               "Geschlecht": "Unisex"
+            }],
+            "Preis": 3345.0
+         }]
+   },{
+      "Hersteller": "Haibike",
+      "Modellarten": [{
+            "Modell": "SDURO FullSeven LT 8.0",
+            "Motor": [{
+               "Motortyp": "Mittelmotor",
+               "Motorleistung": "250W 36V 17Ah",
+               "Motorhersteller": "Bosch Performance Line CX",
+               "Reichweite": 70,
+               "Unterst\u00fctzung bis": 25
+            }],
+            "Fahrradeigenschaften":[ {
+               "Baujahr": 2020,
+               "Typ": "Pedelec",
+               "Gewicht": 24,
+               "Schaltung": "Kettenschaltung / Shimano, XT M8100",
+               "Rahmengr\u00f6\u00dfe": "S,M,L,XL",
+               "Reifengr\u00f6\u00dfe": 28,
+               "Rahmen": "Mountain Bike",
+               "Design": "ATB",
+               "Geschlecht": "Herren"
+            }],
+            "Preis": 5499.0
+         },{
+            "Modell": "XDURO AllTrail 6.0",
+            "Motor":[ {
+               "Motortyp": "Mittelmotor",
+               "Motorleistung": "350W 48V 13Ah",
+               "Motorhersteller": "Bosch Performance Line Speed",
+               "Reichweite": 40,
+               "Unterst\u00fctzung bis": 25
+            }],
+            "Fahrradeigenschaften":[ {
+               "Baujahr": 2020,
+               "Typ": "Pedelec",
+               "Gewicht": 24,
+               "Schaltung": "Kettenschaltung / Sram, GX Eagle",
+               "Rahmengr\u00f6\u00dfe": "S,M,L,XL,XS",
+               "Reifengr\u00f6\u00dfe": 28,
+               "Rahmen": "Mountain Bike",
+               "Design": "ATB",
+               "Geschlecht": "Herren"
+            }],
+            "Preis": 5999.0
+         }]
+}]
+}

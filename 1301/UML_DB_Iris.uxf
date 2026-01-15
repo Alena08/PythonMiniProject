@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>17</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>731</x>
+      <y>221</y>
+      <w>357</w>
+      <h>136</h>
+    </coordinates>
+    <panel_attributes>iris_species
+--
+species_id integer (PK)
+species_name text</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>34</x>
+      <y>221</y>
+      <w>357</w>
+      <h>204</h>
+    </coordinates>
+    <panel_attributes>iris_samples
+--
+species INTEGER (FK)
+sepal_length REAL
+sepal_width REAL
+petal_length REAL
+petal_width REAL
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>374</x>
+      <y>255</y>
+      <w>391</w>
+      <h>68</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=n</panel_attributes>
+    <additional_attributes>10.0;10.0;210.0;10.0</additional_attributes>
+  </element>
+</diagram>
